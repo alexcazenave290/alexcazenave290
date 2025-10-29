@@ -3,7 +3,7 @@
 # 👋 ¡Hola! Soy Alex Cazenave  
 
 <p align="center">
-  <img src="[![banner.png](https://i.postimg.cc/9FcMsJ2Z/banner.png)](https://postimg.cc/Btw4K5Xn)" alt="@Alex Cazenave Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/alexcazenave290/alexcazenave290/main/banner.png" alt="@Alex Cazenave Banner" width="100%">
 </p>
 
 💻 **Desarrollador Backend | 18 años | Uruguay 🇺🇾**  
