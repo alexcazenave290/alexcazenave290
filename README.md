@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="banner.png" alt="@Alex Cazenave Banner" width="100%">
-</p>
+
 
 # 👋 ¡Hola! Soy Alex Cazenave  
+
+<p align="center">
+  <img src="[banner.png](https://ibb.co/pjSxTHT6)" alt="@Alex Cazenave Banner" width="100%">
+</p>
 
 💻 **Desarrollador Backend | 18 años | Uruguay 🇺🇾**  
 
