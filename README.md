@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="@Alex Cazenave Banner" width="100%">
+</p>
 
-<!--
-**alexcazenave290/alexcazenave290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Alex Cazenave  
 
-Here are some ideas to get you started:
+💻 **Desarrollador Backend | 18 años | Uruguay 🇺🇾**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante egresado de **Informática - UTU Solymar (Bachillerato)**.  
+Apasionado por la tecnología, la lógica y la creación de proyectos **desde cero, a puro código**.  
+Me encanta trabajar en el **backend**, pero también disfruto el **diseño web** y todo lo relacionado con el desarrollo moderno.
+
+---
+
+### ⚙️ Tecnologías que uso o estoy aprendiendo
+- 🧠 **Backend:** PHP, MySQL, PDO  
+- 🎨 **Frontend:** HTML, CSS, JavaScript, Bootstrap 5  
+
+---
+
+### 🌱 Actualmente
+- Aprendiendo más sobre **PHP y bases de datos**, con interés en **Laravel** y **Spring Boot**.  
+- Desarrollando proyectos personales y experimentando con **nuevas herramientas web**.  
+- Buscando mejorar cada día como programador y creador.  
+
+---
+
+### 🚀 Objetivo
+Seguir creciendo como **desarrollador backend**, construir proyectos que marquen la diferencia y combinar lo técnico con la creatividad.
+
+---
+
+📫 **Podés contactarme o ver mis proyectos acá en GitHub**
