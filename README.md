@@ -6,7 +6,7 @@
   <img src="https://i.postimg.cc/9FcMsJ2Z/banner.png" alt="@Alex Cazenave Banner" width="100%">
 </p>
 
-💻 **Desarrollador Backend | 18 años | Uruguay 🇺🇾**  
+💻 **Desarrollador Backend | Uruguay 🇺🇾**  
 
 Soy estudiante egresado de **Informática - UTU Solymar (Bachillerato)**.  
 Apasionado por la tecnología, la lógica y la creación de proyectos **desde cero, a puro código**.  
