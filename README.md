@@ -8,7 +8,7 @@
 
 💻 **Desarrollador Backend | Uruguay 🇺🇾**  
 
-Soy estudiante egresado de **Informática - UTU Solymar (Bachillerato)**.  
+Soy estudiante egresado de **Informática - (Bachillerato)**.  
 Apasionado por la tecnología, la lógica y la creación de proyectos **desde cero, a puro código**.  
 Me encanta trabajar en el **backend**, pero también disfruto el **diseño web** y todo lo relacionado con el desarrollo moderno.
 
