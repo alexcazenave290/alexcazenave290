@@ -22,15 +22,16 @@ Me encanta trabajar en el **backend**, pero también disfruto el **diseño web**
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PDO](https://img.shields.io/badge/PDO-4B8BBE?style=for-the-badge&logo=php&logoColor=white)
+![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 ---
 
 ### 🌱 Actualmente
-- Aprendiendo más sobre **PHP y bases de datos**, con interés en **Laravel** y **Spring Boot**.  
+- Aprendiendo más sobre **Spring Boot y Base de Datos**.  
 - Desarrollando proyectos personales y experimentando con **nuevas herramientas web**.  
 - Buscando mejorar cada día como programador y creador.  
 
