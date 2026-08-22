@@ -1,22 +1,22 @@
 
 
-# 👋 ¡Hola! Soy Alex Cazenave  
+# 👋 ¡Hi! I am Alex Cazenave  
 
 <p align="center">
   <img src="https://i.postimg.cc/9FcMsJ2Z/banner.png" alt="@Alex Cazenave Banner" width="100%">
 </p>
 
-💻 **Desarrollador Backend | Uruguay 🇺🇾**  
+💻 **Backend Developer | Uruguay 🇺🇾**  
 
-Soy estudiante egresado de **Informática - (Bachillerato)**.  
-Apasionado por la tecnología, la lógica y la creación de proyectos **desde cero, a puro código**.  
-Me encanta trabajar en el **backend**, pero también disfruto el **diseño web** y todo lo relacionado con el desarrollo moderno.
+I'm a graduate student in **Computer Science (High School Diploma)**.  
+Passionate about technology, logic, and building projects **(pure code)**.  
+I love working on the **backend**, but I also enjoy **web design** and everything related to modern development.
 
 ---
 
-### 🧩 Tecnologías
+### 🧩 Technologies
 
-![Tecnologías](https://img.shields.io/badge/⚙️%20Tecnologías-Informática-blueviolet?style=for-the-badge)
+![Technologies](https://img.shields.io/badge/⚙️%20Technologies-Computer-Science-blueviolet?style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,16 +29,16 @@ Me encanta trabajar en el **backend**, pero también disfruto el **diseño web**
 
 ---
 
-### 🌱 Actualmente
-- Aprendiendo más sobre **Spring Boot y Base de Datos**.  
-- Desarrollando proyectos personales y experimentando con **nuevas herramientas web**.  
-- Buscando mejorar cada día como programador y creador.  
+### 🌱 Currently
+- Learning more about **React, NodeJs and Databases**.
+- Building personal projects and experimenting with **new web tools**.
+- Looking to improve every day as a programmer and creator.
 
 ---
 
-### 🚀 Objetivo
-Seguir creciendo como **desarrollador backend**, construir proyectos que marquen la diferencia y combinar lo técnico con la creatividad.
+### 🚀 Goal
+To keep growing as a **backend developer**, build projects that make a difference, and combine technical skill with creativity.
 
 ---
 
-📫 **Podés contactarme o ver mis proyectos acá en GitHub**
+📫 **You can contact me or check out my projects here on GitHub**
