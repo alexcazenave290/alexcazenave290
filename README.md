@@ -16,7 +16,7 @@ I love working on the **backend**, but I also enjoy **web design** and everythin
 
 ### 🧩 Technologies
 
-![Technologies](https://img.shields.io/badge/⚙️%20Technologies-Computer-Science-blueviolet?style=for-the-badge)
+![Computer Science](https://img.shields.io/badge/💻%20Computer%20Science-Fundamentals-blueviolet?style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
